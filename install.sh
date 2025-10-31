@@ -36,7 +36,6 @@ chmod +x git-backup.sh install.sh
 
 echo ""
 echo "✅ Configuration complete!"
-echo "Now please create a folder named 'backups' on your NAS (if it doesn't exist)."
 echo "Once ready, run:"
 echo "   ./git-backup.sh"
 echo ""
