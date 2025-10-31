@@ -17,7 +17,9 @@ sed -i "s|LOCAL_PATH=\"$HOME/Documents\"|LOCAL_PATH=\"$LOCAL_PATH\"|" git-backup
 sed -i "s|NAS_PATH=\"/volume1/backups\"|NAS_PATH=\"$NAS_PATH\"|" git-backup.sh
 
 chmod +x git-backup.sh
+chmod +x install.sh
 echo ""
 echo "Now please create a folder named backups on your NAS"
 echo "After creating folder backups and your ready please enter command  ./git-backup.sh to start the backup"
+
 
