@@ -9,3 +9,5 @@ echo "Starting backup process to NAS at $NAS_IP..."
 rsync -av --delete  "$LOCAL_PATH" "${NAS_USER}@${NAS_IP}:${NAS_PATH}" #please if you read this --delete means if file is deleted on device it will delete on nas too not what you think :)
 
 echo "Backup was completed!"
+
+#commit

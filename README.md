@@ -1,7 +1,7 @@
 # 🧰 Linux Device → NAS Backup Tool
 
 A lightweight, reliable, and secure backup solution designed to automate file synchronization between a **Linux device** and a **Linux-based NAS server**.  
-Built for home labs, developers, and small teams who want robust, incremental, and encrypted backups without the complexity of enterprise systems.
+Built for home labs, developers, and small teams who want robust, incremental, and encrypted backups without the complexity of enterprise systems...
 
 ---
 
